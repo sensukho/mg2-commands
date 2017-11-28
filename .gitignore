@@ -1,0 +1,8 @@
+/*
+!/app
+app/*
+!app/code/
+app/code/*
+!app/code/Magmalabs/
+!README.md
+!.gitignore
