@@ -15,7 +15,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 use Magento\Sales\Model\Order;
 
 /**
- * Class OrderDeleteCommand
+ * Class DeleteCommand
  */
 class DeleteCommand extends Command
 {

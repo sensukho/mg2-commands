@@ -10,7 +10,7 @@
     <type name="Magento\Framework\Console\CommandList">
         <arguments>
             <argument name="commands" xsi:type="array">
-                <item name="order_delete_command" xsi:type="object">Magmalabs\Commands\Console\Command\DeleteCommand</item>
+                <item name="delete_command" xsi:type="object">Magmalabs\Commands\Console\Command\DeleteCommand</item>
             </argument>
         </arguments>
     </type>
