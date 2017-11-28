@@ -15,11 +15,11 @@ Arguments:
   id                    Id
 
 Options:
-  -o, --order             Work with Orders
+  -o, --order           Work with Orders
   -p, --product         Work with Products
   -c, --category        Work with Categories
-  -a, --delete-all        Delete all
-  -h, --help               Display this help message
+  -a, --delete-all      Delete all
+  -h, --help            Display this help message
 ```
 
 Eg:
